@@ -7,6 +7,6 @@ int main()
 {
   int _; //Decleration Statement
   _ = 8;
-  printf("%d",_);
+  printf("%f",_);
 }
 // Reason :  Because _ is considered as a Variable
