@@ -5,7 +5,7 @@
 #include<stdio.h>
 int main()
 {
-  int _,a,c; //Decleration Statement
+  int _; //Decleration Statement
   _ = 8;
   printf("%d",_);
 }
