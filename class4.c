@@ -38,12 +38,12 @@ int main()
   printf("The Value of a is %d",c);
   --------------------------------*/
 
-  /* Adding 2 numbers that User Input - METHOD 2
+  ///* Adding 2 numbers that User Input - METHOD 2
 
   int a,b,c;
   printf("Enter two Number:");
   scanf("%d%d",&a,&b);
   c = a+b;
   printf("The Value of a is %d",c);
-  ----------------------------------------*/
+  //----------------------------------------*/
 }

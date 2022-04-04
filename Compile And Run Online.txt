@@ -1,0 +1,4 @@
+In terminal use : gcc/g++ <filename>.c
+A new file with a.out is created
+In terminal, use ./a.out
+Viola 
