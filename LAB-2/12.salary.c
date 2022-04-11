@@ -1,4 +1,4 @@
-//Write a Program to print Kiran's Salary
+z//Write a Program to print Kiran's Salary
 
 #include<stdio.h>
 int main()
