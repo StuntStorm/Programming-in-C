@@ -1,3 +1,4 @@
+//Write a program to check if the character is lower or upper and if its lower give its upper and vise versa
 #include <stdio.h>
 int main()
 {
