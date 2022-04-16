@@ -5,7 +5,6 @@
 
 You can check out my [GitHub](https://github.com/StuntStorm/) to view and star my projects👍🏻
 
-<iframe src="https://github.com/StuntStorm/amFOSS-Curriculum/blob/gh-pages/1.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
 
 ### -Programming in C Sections-
 
@@ -26,7 +25,8 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 - LAB 3 Works : [Lab Assignment No.3](https://github.com/StuntStorm/Programming-in-C/tree/master/LAB-3)
 
 ![image](https://user-images.githubusercontent.com/56226566/162878888-a6e101e1-83bb-4f8c-bbd1-08f6fdf913c5.png)
-Got some help from M0h1th
+
+Got some help from M0h1th regarding codeforces
 
 - LAB 4 Works : [Lab Assignment No.4](https://github.com/StuntStorm/Programming-in-C/tree/master/LAB-4)
 
