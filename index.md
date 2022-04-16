@@ -3,7 +3,12 @@
 ![N RIZWAN](https://user-images.githubusercontent.com/56226566/162879361-1a21283a-9795-4c39-82bb-3c60d43f8e23.png)
 
 
-<bgsound src="1.mp3" loop="infinite">
+You can check out my [GitHub](https://github.com/StuntStorm/) to view and star my projects👍🏻
+
+<audio controls autostart="true" loop="infinite">
+  <source src="1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 
 ### -Programming in C Sections-
