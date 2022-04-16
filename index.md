@@ -11,6 +11,8 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 
 <audio controls autostart="true" loop="infinite">
   <source src="1.mp3" type="audio/mpeg">
+  <source src="2.mp3" type="audio/mpeg">
+  <source src="3.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
