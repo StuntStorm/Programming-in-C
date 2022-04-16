@@ -4,8 +4,11 @@
 
 
 You can check out my [GitHub](https://github.com/StuntStorm/) to view and star my projects👍🏻
+<audio controls autostart="true">
+  <source src="1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-<iframe src="https://github.com/StuntStorm/amFOSS-Curriculum/blob/gh-pages/1.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
 
 ### -Programming in C Sections-
 
