@@ -16,6 +16,16 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 Your browser does not support the audio element.
 </audio>
 
+<audio controls autostart="true" loop="infinite">
+  <source src="2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls autostart="true" loop="infinite">
+  <source src="3.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 ---------------------------------------------------------------
 
 
