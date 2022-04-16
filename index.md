@@ -7,7 +7,7 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 
 --------------------------------------------------------------
 
-### Play Music
+### -Play Music-
 
 <audio controls autostart="true" loop="infinite">
   <source src="1.mp3" type="audio/mpeg">
