@@ -51,6 +51,6 @@ Your browser does not support the audio element.
 
 - LAB 4 Works : [Lab Assignment No.4](https://github.com/StuntStorm/Programming-in-C/tree/master/LAB-4)
 
-![image](https://user-images.githubusercontent.com/56226566/162878953-6778aea7-4fee-49d9-acdf-7057c143c12f.png)
+![image](https://user-images.githubusercontent.com/56226566/163976587-ee828300-cbb5-4c57-90d9-dca8547ce153.png)
 
 
