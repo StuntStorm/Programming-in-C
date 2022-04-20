@@ -13,8 +13,6 @@ int main()
     printf("in main, a : %d and b : %d\n",a,b);
     summing(a,b); //function call. a and b are the actual parameters
     sum(a,b);
-
-
 }
 
 void sum(int x,int y)
