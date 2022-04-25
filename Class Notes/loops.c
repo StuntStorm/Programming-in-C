@@ -75,12 +75,20 @@ int main()
     */
 
 
+    /*
     // PRINT ALL NUMBER USING LOOP
     for(int i = 0;i<=10;i++)
     {
         printf("%d ",i);
     }
-    
+    */
+
+
+    // PRINT INFINITE 0 USING LOOP
+    for(int i = 0;i<=10;i+2)
+    {
+        printf("%d ",i);
+    }
 
 
 
