@@ -53,4 +53,9 @@ Your browser does not support the audio element.
 
 ![image](https://user-images.githubusercontent.com/56226566/163976587-ee828300-cbb5-4c57-90d9-dca8547ce153.png)
 
+- LAB 5 Works : [Lab Assignment No.5](https://github.com/StuntStorm/Programming-in-C/tree/master/LAB-5)
+
+![image](https://user-images.githubusercontent.com/56226566/167347572-10af0252-1c18-4b03-bcc9-d4893745e898.png)
+
+
 
